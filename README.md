@@ -1,6 +1,7 @@
 #  Exoplanet-Candidate-Classification
 
  Used NASA’s Kepler space telescope data to build a machine learning system that can tell whether a star’s light pattern comes from a **real planet** or a **false signal**.
+ https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results
 
 ---
 
