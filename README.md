@@ -7,7 +7,7 @@
 
 ##  Main Goals
 - Preprocess and clean the Kepler dataset.  
-- Train multiple models (Logistic Regression, Random Forest, XGBoost, Deep Learning).  
+- Train multiple models (Logistic Regression, Random Forest, XGBoost).  
 - Tune hyperparameters for better accuracy and balanced classification.  
 - Use **Explainable AI** (feature importance + SHAP values) to understand predictions.  
 - Compare results for **planet candidates vs false positives**.  
